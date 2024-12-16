@@ -1,3 +1,5 @@
+<div style="background-color: red; padding: 20px; border-radius: 10px;">
+
 # 💫 About Me:
 <p align="center">
   <img src="https://lh3.googleusercontent.com/a/ACg8ocLRZMME6F0rgT8S4i-I_IYDpO3Kx8C1VHcNkNR89bLZ88DcNnDk8A=s360-c-no" alt="Pankaj Kumar" width="150" style="border-radius: 50%;">
@@ -11,15 +13,19 @@ Hello! I'm Pankaj Kumar, a passionate and ambitious **Full-Stack Developer** exp
 - 💡 **Ask me about**: Software Development, Web Development, and anything tech!  
 - 😄 **Fun fact**: I am lazy, but I’m also smart and funny, which makes up for it! 😎  
 
+</div>
+
 ---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pankaj-kumar-557528276/)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@IMPANKAJ)
 
+
 ---
 
 ## 💻 Tech Stack:
+<div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px;">
 I work with a diverse set of tools and technologies to build functional and visually appealing applications. Here's what I bring to the table:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -44,18 +50,24 @@ I work with a diverse set of tools and technologies to build functional and visu
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats:
+<div style="background-color: #fff7e6; padding: 20px; border-radius: 10px;">
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=itspankaj143&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itspankaj143&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
 </div>
 
 ---
 
 ### 😂 Random Dev Meme:
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
 <img src="https://rm.up.railway.app/" width="512px" alt="Random Meme" />
+</div>
 
 ---
 
