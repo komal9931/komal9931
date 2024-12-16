@@ -1,6 +1,7 @@
 # 💫 About Me:
-<img src="https://lh3.googleusercontent.com/a/ACg8ocLRZMME6F0rgT8S4i-I_IYDpO3Kx8C1VHcNkNR89bLZ88DcNnDk8A=s360-c-no" alt="Pankaj Kumar" width="150" style="border-radius: 50%; display: block; margin: 0 auto;">
-
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/a/ACg8ocLRZMME6F0rgT8S4i-I_IYDpO3Kx8C1VHcNkNR89bLZ88DcNnDk8A=s360-c-no" alt="Pankaj Kumar" width="150" style="border-radius: 50%;">
+</p>
 
 Hello! I'm Pankaj Kumar, a passionate and ambitious **Full-Stack Developer** exploring the realms of modern web development. I'm enthusiastic about creating efficient, scalable, and user-friendly software solutions. Having recently graduated from **MITWPU Pune** in **Electronics and Communication with AI**, I’m now honing my skills in **full-stack development** to solve real-world problems and contribute to impactful projects.
 
@@ -52,8 +53,6 @@ I work with a diverse set of tools and technologies to build functional and visu
 </div>
 
 ---
-
-
 
 ### 😂 Random Dev Meme:
 <img src="https://rm.up.railway.app/" width="512px" alt="Random Meme" />
