@@ -3,9 +3,14 @@
   # 💫 <em>All About Me:</em>
 </h1>
 
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/a/ACg8ocLRZMME6F0rgT8S4i-I_IYDpO3Kx8C1VHcNkNR89bLZ88DcNnDk8A=s360-c-no" alt="Pankaj Kumar" width="150" style="border-radius: 50%;">
+<p align="center" style="margin-top: 20px;">
+  <img src="https://lh3.googleusercontent.com/a/ACg8ocLRZMME6F0rgT8S4i-I_IYDpO3Kx8C1VHcNkNR89bLZ88DcNnDk8A=s360-c-no" 
+       alt="Pankaj Kumar" 
+       width="150" 
+       style="border-radius: 50%; border: 3px solid #4CAF50; outline: 5px solid #f0f0f0; padding: 5px;">
 </p>
+
+
 
 
 | **Hello! I'm Pankaj Kumar**                                                                                                  |
