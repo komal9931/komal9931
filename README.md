@@ -1,3 +1,9 @@
+# 💫 About Me:
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/a/ACg8ocLRZMME6F0rgT8S4i-I_IYDpO3Kx8C1VHcNkNR89bLZ88DcNnDk8A=s360-c-no" alt="Pankaj Kumar" width="150" style="border-radius: 50%;">
+</p>
+
+
 | **Hello! I'm Pankaj Kumar**                                                                                                  |
 |-----------------------------------------------------------------------------------------------------------------------------|
 | A passionate and ambitious **Full-Stack Developer** exploring the realms of modern web development.                         |
