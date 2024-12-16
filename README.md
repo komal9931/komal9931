@@ -53,13 +53,7 @@ I work with a diverse set of tools and technologies to build functional and visu
 
 ---
 
-### ✍️ Random Dev Quote:
-> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repositories:
-![](https://github-contributor-stats.vercel.app/api?username=itspankaj143&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 ### 😂 Random Dev Meme:
 <img src="https://rm.up.railway.app/" width="512px" alt="Random Meme" />
