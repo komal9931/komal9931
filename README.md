@@ -1,7 +1,7 @@
 
-<p align="center">
-  # 💫All About Me:
-</p>
+<h1 align="center">
+  # 💫 <em>All About Me:</em>
+</h1>
 
 <p align="center">
   <img src="https://lh3.googleusercontent.com/a/ACg8ocLRZMME6F0rgT8S4i-I_IYDpO3Kx8C1VHcNkNR89bLZ88DcNnDk8A=s360-c-no" alt="Pankaj Kumar" width="150" style="border-radius: 50%;">
